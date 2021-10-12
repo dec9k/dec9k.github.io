@@ -1,6 +1,6 @@
 ## An Elysian Elegy
 
-[An Elysian Elgey](https://github.com/dec9k/dec9k.github.io/edit/main/README.md)
+[An Elysian Elegy](https://github.com/dec9k/dec9k.github.io/edit/main/README.md)
 
 ## Starfall Interactive consists of...
 
@@ -25,5 +25,5 @@
 ### Writing
 - Marc Vermette
 
-[Test](/An-Elysian-Elgey/index.html
+[Test](/An-Elysian-Elgey/index.html)
 
