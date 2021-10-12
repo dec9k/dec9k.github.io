@@ -1,6 +1,9 @@
 ## An Elysian Elegy
 
-[An Elysian Elegy](dec9k.github.io.7z)
+[An Elysian Elegy](/www/index.html)
+|
+
+
 
 ## Starfall Interactive consists of...
 
@@ -25,5 +28,4 @@
 ### Writing
 - Marc Vermette
 
-[Test](/dec9k.github.io/index.html)
-
+[An Elysian Elegy - zip](www.7z)
