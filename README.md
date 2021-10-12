@@ -3,7 +3,7 @@
 [An Elysian Elegy - web release](/releases/techdemo/index.html)
 
 
-[An Elysian Elegy - zip](/releases/techdemo/www.7z)
+[An Elysian Elegy - zip](/releases/techdemo/www.zip)
 
 ## Starfall Interactive consists of...
 
