@@ -1,6 +1,6 @@
 ## An Elysian Elegy
 
-[An Elysian Elegy](https://github.com/dec9k/dec9k.github.io/edit/main/README.md)
+[An Elysian Elegy](dec9k.github.io.7z)
 
 ## Starfall Interactive consists of...
 
