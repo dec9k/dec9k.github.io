@@ -1,7 +1,9 @@
 ## An Elysian Elegy
 
 [An Elysian Elegy](/www/index.html)
-[An Elysian Elegy](www.7z)
+|
+
+
 
 ## Starfall Interactive consists of...
 
@@ -26,3 +28,4 @@
 ### Writing
 - Marc Vermette
 
+[An Elysian Elegy - zip](www.7z)
